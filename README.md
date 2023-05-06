@@ -346,15 +346,18 @@ i ｢wdm｣: Compiled successfully.
 
 STEP1:  Operational status: shows if the smart contracts are operative or locked.
 
+https://github.com/get2shailesh/nd1309-P4-flight-surety/blob/main/images/step1-operational-status.png
  
 STEP2:  Airline registration: This capability allows to execute actions relative to the airlines such as funding, voting, and validation of registration, funding etc.
 
- 
+https://github.com/get2shailesh/nd1309-P4-flight-surety/blob/main/images/step2-airline-registration.png 
 
 STEP3:  Insure Flight: Allows a passenger to buy an insurance for a specific flight using BUY capability and fetch flight status in a simulated way from oracle using fetch slight status capability.
 
- 
+https://github.com/get2shailesh/nd1309-P4-flight-surety/blob/main/images/step3-flight-insurance.png 
 
-STEP4:  Passenger Details: Allow a passenger verify his/her accredited amount when a flight is delayed. Also allow him to withdraw the credit.
+STEP4:  Passenger Details: Allow a passenger verify his/her accredited amount when a flight is delayed. Also allow him/her to withdraw the credit.
+
+https://github.com/get2shailesh/nd1309-P4-flight-surety/blob/main/images/step4-passanger-details.png
  
 ----------------------END-----------------------
